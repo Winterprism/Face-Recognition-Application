@@ -19,3 +19,6 @@ This full-stack face recognition app allows users to detect faces in uploaded im
 You can try the live version of the app here:
 [Face Recognition App](https://face-recognition-application-h7dk.onrender.com/)
 
+![alt text](images/Face-Recognition-Main.png) 
+![alt text](images/Face-Recognition-Signin.png) 
+![alt text](images/Face-Recognition-Register.png)
